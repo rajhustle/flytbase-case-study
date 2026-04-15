@@ -1,5 +1,4 @@
 
-
 # FlytBase Case Study — Enterprise Drone Deployment Strategy
 
 This repository contains my approach to solving a real-world deployment scenario for FlytBase at the Port of Los Angeles.
